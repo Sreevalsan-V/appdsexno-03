@@ -1,11 +1,10 @@
-# AppDSExno-03
-
-**AIM:**
-
+# EX01-Implemention of  Data Preprocessing and Data Analysis
+## NAME: SREEVALSAN
+## REGISTER NO: 212223240158
+## AIM:
 To Implement Recommendation Systems using the suitable data sets.
 
-**ALGORITHM:**
-
+## ALGORITHM:
 STEP 1: Load the necessary Datasets.
 
 STEP 2: Include the necessary python library.
@@ -26,9 +25,22 @@ STEP 9: Sort the data by recommendation score.
 
 STEP 10: Export the results to a CSV file.
 
+## CODING AND OUTPUT:
 
-**CODING & OUTPUT**
+![alt text](image.png)
+
+![alt text](image-1.png)
+
+![alt text](image-2.png)
+
+![alt text](image-3.png)
+
+![alt text](image-4.png)
+
+![alt text](image-5.png)
 
 
+## RESULT:
+Thus, Recommendation Systems using the suitable data sets is implemented successfully.
 
-**RESULT**
+
